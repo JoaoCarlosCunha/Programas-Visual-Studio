@@ -1,0 +1,13 @@
+E:\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe.config
+E:\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe
+E:\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.pdb
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csprojAssemblyReference.cache
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.frmCadastrar.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmEscolha.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmProblematica.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Properties.Resources.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.GenerateResource.cache
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.CoreCompileInputs.cache
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.exe
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmFlash.resources

@@ -1,0 +1,60 @@
+CREATE DATABASE ANDAFAPE
+go
+use ANDAFAPE
+go
+create table USUARIO
+(
+	Usuario varchar(15),
+	Senha varchar(15)
+)
+go
+insert into USUARIO
+values
+('joao','123')
+go
+create table CRIANCA
+(
+	Nome varchar(40),
+	Telefone varchar(40),
+	idade varchar(40),
+	nascimento varchar(40),
+	endereco varchar(40),
+	responsavel varchar(40),
+	RGMae varchar(50),
+	Ecolaridades varchar(50),
+	Atividades text
+)
+go
+insert into CRIANCA
+values
+('João Carlos da Cunha Junior','998539874','18','11/12/2000','Jose Lazaro Antunes de Almeida','Joao carlos','47597463820','Faculdade','')
+go
+create procedure sp_ExcluirValor
+@Nome varchar(40), 
+@Mensagem varchar(100) output
+as 
+begin
+delete CRIANCA where Nome = @Nome
+set @Mensagem = 'Excluido com exito'
+end
+go
+create procedure sp_ExcluirUsuario
+@Nome varchar(40), 
+@Mensagem varchar(100) output
+as 
+begin
+delete CRIANCA where Nome = @Nome
+set @Mensagem = 'Excluido com exito'
+end
+go
+create procedure sp_ExcluirUsuario
+@Nome varchar(40), 
+@Mensagem varchar(100) output
+as 
+begin
+delete USUARIO where Usuario = @Nome
+set @Mensagem = 'Excluido com exito'
+end
+go
+select * from USUARIO
+select  * from CRIANCA

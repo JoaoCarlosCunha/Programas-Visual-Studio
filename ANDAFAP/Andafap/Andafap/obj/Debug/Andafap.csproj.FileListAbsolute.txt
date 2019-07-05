@@ -1,0 +1,75 @@
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe.config
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.pdb
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csprojAssemblyReference.cache
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Form1.resources
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Properties.Resources.resources
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.GenerateResource.cache
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.CoreCompileInputs.cache
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.exe
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.pdb
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmEscolha.resources
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastrarFunc.resources
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastroCrianca.resources
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmoqfazer.resources
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe.config
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.pdb
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csprojAssemblyReference.cache
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Form1.resources
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastrarFunc.resources
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastroCrianca.resources
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmEscolha.resources
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmoqfazer.resources
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Properties.Resources.resources
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.GenerateResource.cache
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.exe
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.pdb
+C:\Users\joaoc\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmFlash.resources
+C:\Users\Ju\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmFlash.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe.config
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.pdb
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csprojAssemblyReference.cache
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Form1.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastrarFunc.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastroCrianca.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmEscolha.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmFlash.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmoqfazer.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Properties.Resources.resources
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.GenerateResource.cache
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.CoreCompileInputs.cache
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.exe
+F:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.pdb
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe.config
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.pdb
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Form1.resources
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastrarFunc.resources
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastroCrianca.resources
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmEscolha.resources
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmFlash.resources
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmoqfazer.resources
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Properties.Resources.resources
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.exe
+C:\Users\User\Desktop\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.pdb
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe.config
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.exe
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\bin\Debug\Andafap.pdb
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csprojAssemblyReference.cache
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Form1.resources
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastrarFunc.resources
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmCadastroCrianca.resources
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmEscolha.resources
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmFlash.resources
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Apresentacao.frmoqfazer.resources
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.Properties.Resources.resources
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.GenerateResource.cache
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.csproj.CoreCompileInputs.cache
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.exe
+D:\Programação em Visual Studio\ANDAFAP\Andafap\Andafap\obj\Debug\Andafap.pdb
