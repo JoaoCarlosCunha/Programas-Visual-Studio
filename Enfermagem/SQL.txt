@@ -1,0 +1,191 @@
+CREATE DATABASE riverdan
+go
+use riverdan
+go
+create table Mulher
+(
+	Nome varchar(50),
+	data_Cadastro varchar(15),
+	dpdataNascimento varchar(50),
+	dpestadoCivil varchar(50),
+	dpnFilhos varchar(50),
+	dpreferencia varchar(50),
+	dpendereco varchar(50),
+	dpidade varchar(50),
+	dpescolaridade varchar(50),
+	dpreligiao varchar(50),
+	dptelefone varchar(50),
+	um varchar(5),
+	dois varchar(5),
+	tres varchar(5),
+	quatro varchar(5),
+	cinco varchar(5),
+	seis varchar(5),
+	sete varchar(5),
+	oito varchar(5),
+	nove varchar(5),
+	dez varchar(5),
+	onze varchar(5),
+	doze varchar(5),
+	treze varchar(40),
+	quatorze varchar(5),
+	quinze varchar(5),
+	dezesei varchar(5),
+	dezesete varchar(5),
+	dezoito varchar(5),
+	dezenove varchar(5),
+	vinte varchar(5),
+	vinteum varchar(5),
+	vintedois varchar(5),
+	vintetres varchar(5),
+	vintequatro varchar(5),
+	vintecinco varchar(5),
+	vinteseis varchar(5),
+	vintesete varchar(5),
+	vinteoito varchar(5),
+	vintenove varchar(5),
+	trinta varchar(5),
+	trintaum varchar(5),
+	trintadois varchar(5),
+	trintatres varchar(5),
+	trintaquatro varchar(5),
+	trintacinco varchar(5),
+	trintaseis varchar(5),
+	trintasete varchar(5),
+	trintaoito varchar(5),
+	trintanove varchar(5),
+	quarenta varchar(5),
+	quarentaum varchar(5),
+	quarentadois varchar(5),
+	quarentatres varchar(5),
+	quarentaquatro varchar(5),
+	quarentacinco varchar(5),
+	quarentaseis varchar(5),
+	quarentasete varchar(5),
+	quarentaoito varchar(5),
+	quarentanove varchar(5),
+	cinquenta varchar(5),
+	bum varchar(5),
+	bdois varchar(5),
+	btres varchar(5),
+	bquatro varchar(5),
+	bcinco varchar(5),
+	bseis varchar(5),
+	bsete varchar(5),
+	boito varchar(5),
+	bnove varchar(5),
+	bdez varchar(5),
+	bonze varchar(5),
+	bdoze varchar(5),
+	btreze varchar(40),
+	bquatorze varchar(5),
+	bquinze varchar(5),
+	bdezesei varchar(5),
+	bdezesete varchar(5),
+	bdezoito varchar(5),
+	bdezenove varchar(5),
+	bvinte varchar(5),
+	bvinteum varchar(5),
+	bvintedois varchar(5),
+	bvintetres varchar(5),
+	bvintequatro varchar(5),
+	bvintecinco varchar(5),
+	bvinteseis varchar(5),
+	bvintesete varchar(5),
+	bvinteoito varchar(5),
+	bvintenove varchar(5),
+	btrinta varchar(5),
+	btrintaum varchar(5),
+	btrintadois varchar(5),
+	btrintatres varchar(5),
+	btrintaquatro varchar(5),
+	btrintacinco varchar(5),
+	btrintaseis varchar(5),
+	btrintasete varchar(5),
+	btrintaoito varchar(5),
+	btrintanove varchar(5),
+	bquarenta varchar(5),
+	bquarentaum varchar(5),
+	bquarentadois varchar(5),
+	bquarentatres varchar(5),
+	bquarentaquatro varchar(5),
+	bquarentacinco varchar(5),
+	bquarentaseis varchar(5),
+	bquarentasete varchar(5),
+	bquarentaoito varchar(5),
+	bquarentanove varchar(5),
+	bcinquenta varchar(5),
+	cum text,
+	cdois text,
+	ctres text,
+	cquatro text,
+	ccinco text,
+	cseis text,
+	csete varchar(5),
+	coito varchar(5),
+	cnove varchar(5),
+	cdez varchar(5),
+	conze varchar(5),
+	cdoze varchar(5),
+	ctreze varchar(40),
+	cquatorze varchar(5),
+	cquinze varchar(5),
+	cdezesei varchar(5),
+	cdezesete varchar(5),
+	cdezoito varchar(5),
+	cdezenove varchar(5),
+	cvinte varchar(5),
+	cvinteum varchar(5),
+	cvintedois varchar(5),
+	cvintetres varchar(5),
+	cvintequatro text,
+	cvintecinco text,
+	cvinteseis text,
+)
+go
+insert into Mulher
+values
+('Joao Carlos','12/06/2019','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s','s')
+go
+create table adm
+(
+	Nome varchar(30),
+	Senha varchar(15)
+)
+go
+insert into adm
+values
+('joao','123')
+go
+create table Aluno
+(
+	Nome varchar(30),
+	Senha varchar(15)
+)
+go
+insert into Aluno
+values
+('joao','123')
+go
+create procedure sp_ExcluirValor
+@Nome varchar(40), 
+@Mensagem varchar(100) output
+as 
+begin
+delete adm where Senha = @Nome
+set @Mensagem = 'Excluido com exito'
+end
+go
+create procedure sp_ExcluirValorr
+@Nome varchar(40), 
+@Mensagem varchar(100) output
+as 
+begin
+delete Aluno where Senha = @Nome
+set @Mensagem = 'Excluido com exito'
+end
+go
+
+go
+select * from adm
+select  * from Aluno

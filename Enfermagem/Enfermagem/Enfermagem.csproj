@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A1BD007-9FE2-4729-8966-6A25015FDF6D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Enfermagem</RootNamespace>
+    <AssemblyName>Enfermagem</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apresentacao\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmCadastrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmCadastrarUsuario.Designer.cs">
+      <DependentUpon>frmCadastrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmCadastroADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmCadastroADM.Designer.cs">
+      <DependentUpon>frmCadastroADM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmCrianca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmCrianca.Designer.cs">
+      <DependentUpon>frmCrianca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmEscolhas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmEscolhas.Designer.cs">
+      <DependentUpon>frmEscolhas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmFlash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmFlash.Designer.cs">
+      <DependentUpon>frmFlash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmGestante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmGestante.Designer.cs">
+      <DependentUpon>frmGestante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmHomem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmHomem.Designer.cs">
+      <DependentUpon>frmHomem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmIdoso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmIdoso.Designer.cs">
+      <DependentUpon>frmIdoso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmLoginADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmLoginADM.Designer.cs">
+      <DependentUpon>frmLoginADM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmLoginAlumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmLoginAlumo.Designer.cs">
+      <DependentUpon>frmLoginAlumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmMulher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmMulher.Designer.cs">
+      <DependentUpon>frmMulher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmPCrianca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmPCrianca.Designer.cs">
+      <DependentUpon>frmPCrianca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmPGestante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmPGestante.Designer.cs">
+      <DependentUpon>frmPGestante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmPHomem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmPHomem.Designer.cs">
+      <DependentUpon>frmPHomem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmPIdoso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmPIdoso.Designer.cs">
+      <DependentUpon>frmPIdoso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\frmPMulher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\frmPMulher.Designer.cs">
+      <DependentUpon>frmPMulher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\Conexao.cs" />
+    <Compile Include="Modelo\Estatico.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Apresentacao\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmCadastrarUsuario.resx">
+      <DependentUpon>frmCadastrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmCadastroADM.resx">
+      <DependentUpon>frmCadastroADM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmCrianca.resx">
+      <DependentUpon>frmCrianca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmEscolhas.resx">
+      <DependentUpon>frmEscolhas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmFlash.resx">
+      <DependentUpon>frmFlash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmGestante.resx">
+      <DependentUpon>frmGestante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmHomem.resx">
+      <DependentUpon>frmHomem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmIdoso.resx">
+      <DependentUpon>frmIdoso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmLoginADM.resx">
+      <DependentUpon>frmLoginADM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmLoginAlumo.resx">
+      <DependentUpon>frmLoginAlumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmMulher.resx">
+      <DependentUpon>frmMulher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmPCrianca.resx">
+      <DependentUpon>frmPCrianca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmPGestante.resx">
+      <DependentUpon>frmPGestante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmPHomem.resx">
+      <DependentUpon>frmPHomem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmPIdoso.resx">
+      <DependentUpon>frmPIdoso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\frmPMulher.resx">
+      <DependentUpon>frmPMulher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enter.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
